@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: 43ef0bde8fc166c43a4a1875dfdd749b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7919677649828199145
+    second: rajahdys_0
+  - first:
+      213: -4619543399902870455
+    second: rajahdys_1
+  - first:
+      213: -8099822293312409665
+    second: rajahdys_2
+  - first:
+      213: -3203132427289579216
+    second: rajahdys_3
+  - first:
+      213: 3609527448406429127
+    second: rajahdys_4
+  - first:
+      213: 8428708845316576049
+    second: rajahdys_5
+  - first:
+      213: -638656733327283549
+    second: rajahdys_6
+  - first:
+      213: 1043444048364455078
+    second: rajahdys_7
+  - first:
+      213: -2787029898314605830
+    second: rajahdys_8
+  - first:
+      213: -4107418122658768102
+    second: rajahdys_9
+  - first:
+      213: 5490790628919410574
+    second: rajahdys_10
+  - first:
+      213: 662941129889319482
+    second: rajahdys_11
+  - first:
+      213: 2237808595806847224
+    second: rajahdys_12
+  - first:
+      213: -5385768234970942779
+    second: rajahdys_13
+  - first:
+      213: -250709856503489331
+    second: rajahdys_14
+  - first:
+      213: -4071119118586927524
+    second: rajahdys_15
+  - first:
+      213: -5186732638845990737
+    second: rajahdys_16
+  - first:
+      213: -1144993125775800933
+    second: rajahdys_17
+  - first:
+      213: -4747934585846540249
+    second: rajahdys_18
+  - first:
+      213: -1114549759459094453
+    second: rajahdys_19
+  - first:
+      213: 7281004630885030232
+    second: rajahdys_20
+  - first:
+      213: 3615459239279647752
+    second: rajahdys_21
+  - first:
+      213: 3768368118492097709
+    second: rajahdys_22
+  - first:
+      213: -5700363484698698989
+    second: rajahdys_23
+  - first:
+      213: -5685544987465492860
+    second: rajahdys_24
+  - first:
+      213: -9149473213009983268
+    second: rajahdys_25
+  - first:
+      213: 9023314925916679762
+    second: rajahdys_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rajahdys_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 456
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea3c9dbcd858ed60800000000000000
+      internalID: 7919677649828199145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 452
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9440a40d0c514efb0800000000000000
+      internalID: -4619543399902870455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 448
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfe257f986a79f80800000000000000
+      internalID: -8099822293312409665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 446
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031bede37003c83d0800000000000000
+      internalID: -3203132427289579216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 442
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd8949171e971230800000000000000
+      internalID: 3609527448406429127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 342
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1339940a90ac8f470800000000000000
+      internalID: 8428708845316576049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 340
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaad94b5190327f0800000000000000
+      internalID: -638656733327283549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 340
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a442c565de0b7e00800000000000000
+      internalID: 1043444048364455078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 338
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa9094e21b7259d0800000000000000
+      internalID: -2787029898314605830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 338
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b1ceebaf48ff6c0800000000000000
+      internalID: -4107418122658768102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 238
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ff8cc4cf4333c40800000000000000
+      internalID: 5490790628919410574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 238
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a8c0af17d333900800000000000000
+      internalID: 662941129889319482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 238
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0026cbf0b4e0f10800000000000000
+      internalID: 2237808595806847224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 238
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c279f74358e145b0800000000000000
+      internalID: -5385768234970942779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 238
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc9b6db6bc458cf0800000000000000
+      internalID: -250709856503489331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 140
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56235a3bba7087c0800000000000000
+      internalID: -4071119118586927524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 140
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa809ac35260508b0800000000000000
+      internalID: -5186732638845990737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 140
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b958edb81da2c10f0800000000000000
+      internalID: -1144993125775800933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 140
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72853d956a2fb1eb0800000000000000
+      internalID: -4747934585846540249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 140
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4091fe16e25880f0800000000000000
+      internalID: -1114549759459094453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 40
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85950e7a2235b0560800000000000000
+      internalID: 7281004630885030232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 50
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cda29c501bc2230800000000000000
+      internalID: 3615459239279647752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 52
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dace0ad86deeb4430800000000000000
+      internalID: 3768368118492097709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 56
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1debcc9d34e0b0800000000000000
+      internalID: -5700363484698698989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 78
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486dd9b05f2e811b0800000000000000
+      internalID: -5685544987465492860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd88698b69a860180800000000000000
+      internalID: -9149473213009983268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rajahdys_26
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 49
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6eb71e11493d70800000000000000
+      internalID: 9023314925916679762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
